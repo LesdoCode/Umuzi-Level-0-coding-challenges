@@ -7,5 +7,3 @@ function findLargest() {
     }
     return largest;
 }
-
-findLargest()
