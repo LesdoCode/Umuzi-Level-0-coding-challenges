@@ -1,4 +1,4 @@
-function findLargest() {
+function findLargestArgument() {
 	let largest = arguments["0"];
 
 	for (let key in arguments) {
