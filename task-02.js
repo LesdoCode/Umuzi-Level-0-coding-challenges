@@ -1,11 +1,11 @@
-let x = 1 + 1 * 2;
-let y = (1 + 1) * 2;
-let z = 1 + 1 * 2;
-let a = 1 + (1 * 2) / 2;
-let b = (1 + 1 * 2) / 2;
+let firstNumber = 1 + 1 * 2;
+let secondNumber = (1 + 1) * 2;
+let thirdNumber = 1 + 1 * 2;
+let fourthNumber = 1 + (1 * 2) / 2;
+let fifthNumber = (1 + 1 * 2) / 2;
 
-console.log(x);
-console.log(y);
-console.log(z);
-console.log(a);
-console.log(b);
+console.log(firstNumber);
+console.log(secondNumber);
+console.log(thirdNumber);
+console.log(fourthNumber);
+console.log(fifthNumber);
