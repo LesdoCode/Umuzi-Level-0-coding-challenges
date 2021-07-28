@@ -1,5 +1,5 @@
-function hello(name) {
+function sayHello(name) {
 	console.log("Hello", name + "!");
 }
 
-hello("Tshepo");
+sayHello("Tshepo");
