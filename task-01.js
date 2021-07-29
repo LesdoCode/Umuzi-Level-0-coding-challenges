@@ -5,7 +5,7 @@ console.log(firstNumber);
 console.log(secondNumber);
 
 firstNumber += 3;
-secondNumber += x;
+secondNumber += firstNumber;
 
 console.log(firstNumber);
 console.log(secondNumber);
